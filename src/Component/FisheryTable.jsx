@@ -36,7 +36,7 @@ const FisheryTable = () => {
   };
 
   return (
-    <Paper elevation={3} style={{ padding: 20, margin: '20px auto', maxWidth: 1000 }}>
+    <Paper elevation={3} style={{ padding: 20, margin: '20px auto', maxWidth: '96%' }}>
       <Typography variant="h5" gutterBottom>
         Fishery Management System
       </Typography>
